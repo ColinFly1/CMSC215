@@ -1,6 +1,6 @@
 //Colin Gibbons-Fly
 // Project 1
-//January 23, 2014
+//January 23, 2024
 // The Height class containts to integer variables, is immutable, has 1 constructor and 2 additional methods
 
 public class Height { // create Height class
