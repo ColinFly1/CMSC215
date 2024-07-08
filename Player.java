@@ -1,6 +1,6 @@
 //Colin Gibbons-Fly
 // Project 1
-//January 23, 2014
+//January 23, 2024
 // The Player class contains 3 instance variables, is immutable, has 1 constructor and 2 additional methods
 
 public class Player { //create Player class
